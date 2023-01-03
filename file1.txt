@@ -1,3 +1,4 @@
 "ITCA Training" 
 "good morning everyone, Welcome to version control using git training. In this course we will see what is version control and how to use it." 
 "modification" 
+"checking after pushing to remote repository" 
